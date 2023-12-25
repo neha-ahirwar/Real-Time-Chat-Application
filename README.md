@@ -8,7 +8,7 @@ The real-time chat application is built using Node.js and Express.js, leveraging
 
   
 ![image](https://github.com/neha-ahirwar/Real-Time-Chat-Application/assets/95342496/910cf858-f0e7-4942-8d38-4cc42dadbc10)
-Fig1: Aking for nicknames
+Fig1: Asking for nicknames
 
 ![image](https://github.com/neha-ahirwar/Real-Time-Chat-Application/assets/95342496/e5b0bf19-a782-4872-a8cb-b2cc5b3481a7)
 Fig2: Nicknames are showing and (user) tying is showing
